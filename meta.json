@@ -2,6 +2,10 @@
   "schemaVersion": 1,
   "hotfixesFormat": null,
   "versions": [
- 
+ {
+        "id": "4.0.2",
+            "downloads": {
+                "curseforge": "https://www.curseforge.com/minecraft/modpacks/origins-maft",
+            }
   ]
 }
